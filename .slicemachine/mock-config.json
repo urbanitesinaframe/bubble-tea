@@ -1,0 +1,12 @@
+{
+  "_cts": {
+    "home": {}
+  },
+  "slices": {
+    "Person": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}
